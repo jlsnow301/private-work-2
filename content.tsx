@@ -1,3 +1,6 @@
 console.log("ikcax")
 console.log("sqdjr")
 console.log("xknxw")
+console.log("gknjd")
+console.log("tqowx")
+console.log("ssffu")
