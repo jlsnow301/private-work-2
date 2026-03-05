@@ -4,3 +4,4 @@ SELECT * from gpcow;
 SELECT * from irrmq;
 SELECT * from ahotk;
 SELECT * from ndvot;
+SELECT * from fldua;
