@@ -5,3 +5,6 @@ SELECT * from irrmq;
 SELECT * from ahotk;
 SELECT * from ndvot;
 SELECT * from fldua;
+SELECT * from mlbdm;
+SELECT * from aouvk;
+SELECT * from sipwj;
