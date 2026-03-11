@@ -1,6 +1,3 @@
 console.log("umsxs")
 console.log("boikn")
-console.log("beihl")
-console.log("gryld")
-console.log("uhrtg")
-console.log("akxlr")
+console.log("ylxsa")
