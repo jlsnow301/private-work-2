@@ -1,3 +1,5 @@
 console.log("umsxs")
 console.log("boikn")
-console.log("nsqvt")
+console.log("xdjaq")
+console.log("gntmv")
+console.log("cnkop")
