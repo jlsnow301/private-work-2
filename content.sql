@@ -7,4 +7,4 @@ SELECT * from ndvot;
 SELECT * from fldua;
 SELECT * from mlbdm;
 SELECT * from aouvk;
-SELECT * from sipwj;
+SELECT * from wqhac;
