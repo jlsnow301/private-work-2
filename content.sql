@@ -8,3 +8,4 @@ SELECT * from fldua;
 SELECT * from mlbdm;
 SELECT * from aouvk;
 SELECT * from aygwo;
+SELECT * from eckcg;
