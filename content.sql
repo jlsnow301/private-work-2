@@ -9,3 +9,4 @@ SELECT * from mlbdm;
 SELECT * from aouvk;
 SELECT * from aygwo;
 SELECT * from eckcg;
+SELECT * from bbegy;
