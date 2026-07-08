@@ -11,3 +11,4 @@ SELECT * from aygwo;
 SELECT * from eckcg;
 SELECT * from bbegy;
 SELECT * from klvum;
+SELECT * from onmke;
