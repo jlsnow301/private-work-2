@@ -14,3 +14,5 @@ SELECT * from klvum;
 SELECT * from onmke;
 SELECT * from ldroq;
 SELECT * from dnldb;
+SELECT * from qtduw;
+SELECT * from ayxcv;
