@@ -18,4 +18,4 @@ SELECT * from qtduw;
 SELECT * from ayxcv;
 SELECT * from edrrx;
 SELECT * from vykkj;
-SELECT * from tktty;
+SELECT * from iokpc;
