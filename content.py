@@ -1,2 +1,2 @@
 print("ilrra")
-print("kyrgl")
+print("gieom")
